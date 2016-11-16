@@ -1,0 +1,4 @@
+The mean energy: -7.98438
+The mean magnetization: 3.99474
+The specific heat: 0.124684
+The susceptibility: 0.0159043
